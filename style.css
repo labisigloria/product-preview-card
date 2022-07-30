@@ -132,7 +132,7 @@ button:active {
         display: none;
     }
 
-    img.desktop {
+    .picture img.desktop {
         display: inline;
         width: 220px;
         height: 330px;
