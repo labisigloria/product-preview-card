@@ -29,12 +29,12 @@ Users should be able to:
 
 ### Screenshot
 
-CHECK THE DESIGN FOLDER
+Check the png files.
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/labisigloria/product-preview-card.git]
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -60,7 +60,7 @@ Creating mobile view first before desktop view when creating a responsive page, 
 
 ## Author
 
-- Website - [Adekoya Olabisi](https://www.your-site.com)
+- Website - [Adekoya Olabisi](https://github.com/labisigloria)
 - Frontend Mentor - [@Olabisi G. Adekoya](https://www.frontendmentor.io/profile/yourusername)
 
 
