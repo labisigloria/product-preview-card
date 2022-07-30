@@ -34,8 +34,8 @@ Check the png files.
 
 ### Links
 
-- Solution URL: [https://github.com/labisigloria/product-preview-card.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/labisigloria/product-preview-card.git
+- Live Site URL: https://frontendmentorproduct-preview-card.netlify.app
 
 ## My process
 
@@ -60,7 +60,7 @@ Creating mobile view first before desktop view when creating a responsive page, 
 
 ## Author
 
-- Website - [Adekoya Olabisi](https://github.com/labisigloria)
-- Frontend Mentor - [@Olabisi G. Adekoya](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Adekoya Olabisi] (https://github.com/labisigloria)
+- Frontend Mentor - [@Olabisi G. Adekoya] (https://www.frontendmentor.io/profile/yourusername)
 
 
