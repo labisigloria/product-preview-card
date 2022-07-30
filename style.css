@@ -6,13 +6,13 @@
 
 
 .container {
-    back-ground color: hsl(30, 38%, 92%);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     margin: auto;
+    back-ground color: hsl(30, 38%, 92%);
 
 }
 
