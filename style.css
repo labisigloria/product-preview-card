@@ -6,7 +6,7 @@
 
 
 .container {
-    back-ground color: hsl(30, 38%, 92%);
+    back-ground color: hsl(30, 38% 92%);
     width: 100%;
     min-height: 100vh;
     display: flex;
